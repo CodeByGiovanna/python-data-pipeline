@@ -64,4 +64,4 @@ https://deepnote.com/workspace/giovanna-de-oliveira-29686d90-3120-4cdc-b14e-7257
 
 ## Autor
 
-**Shaiane Tonin**
+**Giovanna de Oliveira**
