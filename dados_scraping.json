@@ -1,0 +1,27 @@
+[
+    {
+        "Nome": "Cyberpunk 2077",
+        "Preço": "R$199,90",
+        "Desconto": "-50%"
+    },
+    {
+        "Nome": "Stardew Valley",
+        "Preço": "R$24,99",
+        "Desconto": "-20%"
+    },
+    {
+        "Nome": "Hades",
+        "Preço": "R$73,99",
+        "Desconto": "-30%"
+    },
+    {
+        "Nome": "Celeste",
+        "Preço": "R$36,99",
+        "Desconto": "-75%"
+    },
+    {
+        "Nome": "Terraria",
+        "Preço": "R$32,99",
+        "Desconto": "-50%"
+    }
+]
